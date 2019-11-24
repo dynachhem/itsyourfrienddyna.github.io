@@ -1,0 +1,40 @@
+.center-block{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5px;
+}
+.navbar-nav{
+    margin-top: 20px;
+    margin-bottom: -10px;
+    height: 2cm;
+    background-color:#cbf3f1;
+}
+.nav-item{
+    font-size: 0.5cm;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 15px;
+    padding-right: -50px;
+}
+.logos {
+    display: inline;
+    margin-left: 615px;
+}
+img{
+    width: 100%;
+}
+.gallery{
+    margin:5px;
+    float: left;
+    width: 200px;
+}
+.gallery img{
+    width: 200px;
+}
+.desc{
+    padding: 15px;
+    text-align:center;
+    font-family: Dosis;
+    font-style: italic;
+}

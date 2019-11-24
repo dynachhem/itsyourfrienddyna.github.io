@@ -1,0 +1,41 @@
+.center-block{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5px;
+}
+.navbar-nav{
+    margin-top: 20px;
+    margin-bottom: -8px;
+    height: 2cm;
+    background-color:#cbf3f1;
+}
+.nav-item{
+    font-size: 0.5cm;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 15px;
+    padding-right: -50px;
+}
+.logos {
+    display: inline;
+    margin-left: 615px;
+}
+div.background {
+    background: url(klematis.jpg) repeat;
+    border: 3px solid #248f8b;
+}
+div.transbox {
+    margin: 10px;
+    background-color: 	#d6f5f4;
+    border: 6px solid #8c47d1;
+    opacity: 0.6;
+    filter: alpha(opacity=60);
+}
+div.transbox p {
+    margin: 2%;
+    color: black;
+    font-family: 'Anton';
+    font-size: 100px;
+    text-align: center;
+}
